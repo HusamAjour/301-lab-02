@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+@import 'reset.css';
+@import 'layout.css';
+@import 'modules.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}

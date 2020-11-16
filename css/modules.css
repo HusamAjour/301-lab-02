@@ -1,0 +1,38 @@
+header{
+    background-color: #30c9e8;
+    text-align: center;
+    padding: 20px ;
+    box-shadow: 2px 2px 9px #444444;
+}
+h1{
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+header select{
+    border: 1px solid #ff4431;
+    width: 200px;
+    padding: 5px;
+    border-radius: 7px;
+}
+#photo-template:first-child{
+    display: none;
+}
+section h2{
+    font-size: 25px;
+    text-align: center;
+    color: #ff4431;
+    margin-bottom: 10px;
+}
+
+section p{
+    text-align: center;
+    font-size: 16px;
+    color: #444444;
+}
+footer{
+    background-color: #444444;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+}
