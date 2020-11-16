@@ -1,0 +1,23 @@
+main{
+    padding: 50px 15px 20px;
+}
+main:after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+section{
+    width: 25%;
+    float: left;
+    padding: 15px;
+    min-height: 300px;
+}
+section img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto 30px;    max-height: 150px;
+
+}
+footer{
+    width: 100%;
+}
