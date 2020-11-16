@@ -1,6 +1,6 @@
 'strict mode';
 let keywords = [];
-$.ajax('../data/page-1.json').then(data => {
+$.ajax('./data/page-1.json').then(data => {
   data.forEach(element => {
     if (!keywords.includes(element.keyword)) {
       keywords.push(element.keyword);

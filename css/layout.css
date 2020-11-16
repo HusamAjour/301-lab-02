@@ -11,11 +11,13 @@ section{
     float: left;
     padding: 15px;
     min-height: 300px;
+    margin-bottom: 20px;
 }
 section img{
     max-width: 100%;
     display: block;
-    margin: 0 auto 30px;    max-height: 150px;
+    margin: 0 auto 30px;   
+    max-height: 150px;
 
 }
 footer{
