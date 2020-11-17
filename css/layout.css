@@ -1,13 +1,16 @@
 main{
-    padding: 50px 15px 20px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 0 20px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    flex: 0 1 300px;
 }
 section{
     width: 30%;
     padding: 15px;
-    min-height: 300px;
+    min-height: 320px;
     margin-bottom: 20px;
 }
 section img{
