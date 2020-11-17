@@ -24,7 +24,10 @@ section h2{
     color: #ff4431;
     margin-bottom: 20px;
 }
-
+section{
+    box-shadow: 0px 1px 9px #cabcbc;
+    background-color: #f5f5f5;
+}
 section p{
     text-align: center;
     font-size: 16px;
@@ -35,4 +38,14 @@ footer{
     text-align: center;
     padding: 20px 0;
     color: #fff;
+}
+.buttons{
+    margin-top: 20px;
+}
+.buttons button{
+    background-color: #ff4431;
+    color: #fff;
+    padding: 7px 30px;
+    border: 1px solid #444444;
+    border-radius: 10px;
 }
